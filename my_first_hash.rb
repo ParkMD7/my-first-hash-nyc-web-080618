@@ -5,8 +5,8 @@ def my_hash
     "name" => "Parker",
     "age" => 27
   }
-
 end
+
 
 
 def shipping_manifest
@@ -19,9 +19,9 @@ def shipping_manifest
     "porcelain vases" => 2,
     "oil paintings" => 3
   }
-
-
 end
+
+
 
 def retrieval
   shipping_manifest = {
