@@ -16,7 +16,8 @@ def shipping_manifest
   
   the_manifest = {
     "whale bone corsets" => 5,
-    "age" => 27
+    "porcelain vases" => 2,
+    
   }
 
 
